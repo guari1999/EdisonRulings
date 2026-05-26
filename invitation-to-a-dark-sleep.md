@@ -1,0 +1,26 @@
+# Invitation to a Dark Sleep
+
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Invitation%20to%20a%20Dark%20Sleep](https://edisonformat.net/card?name=Invitation%20to%20a%20Dark%20Sleep)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+No rulings found for this card. Request new rulings at https://discord.gg/shVJnYJNpg
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+### Card Text
+
+> No card text found for this card.
+
+### Card Rulings
+
+No rulings found for this card.
+
+

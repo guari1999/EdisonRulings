@@ -1,0 +1,42 @@
+# Genesis Dragon
+
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Genesis%20Dragon](https://edisonformat.net/card?name=Genesis%20Dragon)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+*   The Ignition Effect targets a Dragon-Type monster in the GY.
+*   Discarding 1 Dragon-Type monster is a cost. You can target the discarded Dragon.
+*   You can't activate this effect if you have no Dragon-Type monsters in your GY.
+*   This effect will be negated by Necrovalley.
+*   The optional When... you can... Trigger Effect can miss the timing.
+*   This effect does not target any cards in the GY. It is not negated by Necrovalley.
+*   If activated, return all available Dragon-Type monsters (including Genesis Dragon) to the Deck.
+*   This effect can activate even if Genesis Dragon is sent to the GY from the hand / Deck, or while treated as an Equip Spell by Relinquished.
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> ① Once per turn, you can send 1 Dragon-Type monster from your hand to the Graveyard to add 1 Dragon-Type monster from your Graveyard to your hand. ② When this card is sent from the field to the Graveyard, you can return all Dragon-Type monsters from your Graveyard to your Deck.
+
+### Card Rulings
+
+*   The ① Ignition Effect targets a Dragon-Type monster in the Graveyard.
+    - Discarding 1 Dragon-Type monster is a cost. You can target the discarded Dragon.
+    - You CANNOT activate this effect if you have no Dragon-Type monsters in your Graveyard.
+    - This effect will be negated by "Necrovalley".
+*   The ② optional "*When... you can...*" Trigger Effect can miss the timing.
+    - This effect does not target any cards in the Graveyard. It is not negated by "Necrovalley".
+    - If activated, return all available Dragon-Type monsters (including "Genesis Dragon") to the Deck.
+    - This effect can activate even if "Genesis Dragon" is sent to the Graveyard from the hand / Deck, or while treated as an Equip Spell by "Relinquished".
+
+

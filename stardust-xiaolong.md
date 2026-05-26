@@ -1,0 +1,29 @@
+# Stardust Xiaolong
+
+## Edisonformat.net (Revised, Post-UTW Rulings)
+
+Source: [https://edisonformat.net/card?name=Stardust%20Xiaolong](https://edisonformat.net/card?name=Stardust%20Xiaolong)
+
+### Edison-Accurate PSCT
+
+> No Edison-Accurate PSCT available for this card.
+
+### Card Rulings
+
+Special Summoning this monster is a Trigger Effect that that activates in the GY.
+*   If you have more than one “Stardust Xiaolong” in your GY when you Synchro Summon “Stardust Dragon,” you can activate the effects of each of them.
+
+
+## Edisonformat.com (Historical, Pre-UTW Rulings)
+
+Source: [https://www.edisonformat.com/rulings](https://www.edisonformat.com/rulings)
+
+### Card Text
+
+> Special Summoning this monster is a Trigger Effect that that activates in the Graveyard.
+
+### Card Rulings
+
+*   If you have more than one “Stardust Xiaolong” in your Graveyard when you Synchro Summon “Stardust Dragon,” you can activate the effects of each of them.
+
+
